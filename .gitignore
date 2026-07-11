@@ -1,0 +1,82 @@
+# =============================================================================
+# Project-specific exclusions
+# =============================================================================
+
+# Reference documentation and large PDFs (keep locally, not in repo)
+Documentations/
+BIRDS-RPM REFERENCE/
+
+# =============================================================================
+# KiCad — files that should NOT be version-controlled
+# Based on KiCad docs and https://github.com/github/gitignore/blob/main/KiCad.gitignore
+# =============================================================================
+
+# Local project settings (layer visibility, selection filter, window layout)
+*.kicad_prl
+
+# Footprint library cache (regenerated automatically)
+fp-info-cache
+
+# KiCad 9+ local project history
+.history/
+
+# Backup directories and archives
+*-backups/
+**/*-backups/*.zip
+
+# Autosave and temporary files
+_autosave-*
+*.tmp
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-save.pro
+*-save.kicad_pcb
+*~
+~*
+~*.lck
+#auto_saved_files#
+
+# Exported/generated outputs (can be regenerated from the design)
+*.net
+*.dsn
+*.ses
+
+# Exported BOM and fabrication outputs (regenerate when needed)
+# Uncomment the next two lines if you export BOMs/gerbers into the repo tree:
+# *.xml
+# *.csv
+# Gerber, drill, and pick-and-place exports:
+*.gbr
+*.gbrjob
+*.drl
+*.pos
+*.ipc
+
+# =============================================================================
+# STM32 / embedded tooling (for when the firmware project grows)
+# =============================================================================
+
+# Build outputs
+Debug/
+Release/
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
