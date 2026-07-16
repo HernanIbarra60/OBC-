@@ -80,3 +80,10 @@ build/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# =============================================================================
+# Folder that I do not want to upload 
+# =============================================================================
+
+# In this moment pin of stm32f7
+STM32F7/

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TLV77533")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_TLV77533PDBVR/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
