@@ -613,6 +613,18 @@
     [
       "e2c03eef-3b12-44a7-ba52-633d5337a24a",
       "Root"
+    ],
+    [
+      "1810c3fc-ca6f-47eb-87b0-cae984a74971",
+      "Main MCU"
+    ],
+    [
+      "3a0430c2-4b4c-48f1-add1-340d7081d402",
+      "Coms MCU"
+    ],
+    [
+      "3a8974f9-75f5-4e68-8bec-e287a5028d56",
+      "Reset"
     ]
   ],
   "text_variables": {}
