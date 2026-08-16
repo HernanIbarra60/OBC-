@@ -3922,6 +3922,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 69.85) (xy 152.4 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48e8c512-1903-47bc-a4ac-bb3fb7b4c0e2")
+	)
+	(wire
+		(pts
 			(xy 73.66 107.95) (xy 73.66 106.68)
 		)
 		(stroke
@@ -4757,6 +4767,28 @@
 		(uuid "b9f61c3c-362c-4cea-a947-42cabd38b0cb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 164.3961 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "set_0"
+		(shape input)
+		(at 152.4 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1d6985e-651e-43b5-ae90-51428320d041")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.4047 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
