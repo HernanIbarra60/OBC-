@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "TLV77533")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_TLV77533PDBVR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "W25Q128JVS")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_W25Q128JVSIQ/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TMUX1574PWR")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_TMUX1574PWR/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

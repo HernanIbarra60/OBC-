@@ -3842,6 +3842,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 41.91) (xy 154.94 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fa6c197-2d9e-41d0-9263-43e6d0fa3e08")
+	)
+	(wire
+		(pts
 			(xy 67.31 95.25) (xy 69.85 95.25)
 		)
 		(stroke
@@ -4019,6 +4029,16 @@
 			(type default)
 		)
 		(uuid "6110dbcf-2abc-4f35-bbcb-d8850ba40a0e")
+	)
+	(wire
+		(pts
+			(xy 146.05 44.45) (xy 154.94 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63997572-c10d-4b91-a2ad-4a8d48d771ab")
 	)
 	(wire
 		(pts
@@ -4680,6 +4700,28 @@
 		)
 		(uuid "f9060983-e41b-4c3e-ab81-9d13a5176196")
 	)
+	(global_label "Rst_TX"
+		(shape input)
+		(at 154.94 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1adeb286-ba8e-4d23-a95d-55e75def4c4b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.0937 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SWD_NRST"
 		(shape input)
 		(at 86.36 161.29 180)
@@ -4698,6 +4740,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Rst_RX"
+		(shape input)
+		(at 154.94 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b9f61c3c-362c-4cea-a947-42cabd38b0cb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.3961 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)

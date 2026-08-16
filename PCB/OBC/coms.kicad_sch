@@ -3470,26 +3470,6 @@
 		)
 		(uuid "5198f62a-0912-4ddb-bb24-8c24e2ecae3a")
 	)
-	(text_box "Datasheet and aplication notes\n- Vcap_1/Vcap_2: 2.2 uF low ESR <2 ohm"
-		(exclude_from_sim no)
-		(at 80.01 137.16 0)
-		(size 33.02 8.89)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "f1c83b20-bd99-4f9d-a846-698e6aa94b1e")
-	)
 	(junction
 		(at 50.8 40.64)
 		(diameter 0)
@@ -3870,6 +3850,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 71.12) (xy 153.67 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "368509e5-7dd1-4ccf-bcdb-82f8112a5e56")
+	)
+	(wire
+		(pts
 			(xy 129.54 40.64) (xy 129.54 39.37)
 		)
 		(stroke
@@ -3967,6 +3957,16 @@
 			(type default)
 		)
 		(uuid "553f8c7d-cb12-488e-8e0f-46cce32838ba")
+	)
+	(wire
+		(pts
+			(xy 144.78 73.66) (xy 153.67 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55f71294-dac6-478a-8567-2a5118fffbf8")
 	)
 	(wire
 		(pts
@@ -4177,16 +4177,6 @@
 			(type default)
 		)
 		(uuid "85292a24-23f6-42dc-9d35-f3e48896505d")
-	)
-	(wire
-		(pts
-			(xy 100.33 66.04) (xy 104.14 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "865d8d6a-8d05-4b90-88c0-81ba06c4eaeb")
 	)
 	(wire
 		(pts
@@ -4698,6 +4688,28 @@
 		)
 		(uuid "f9060983-e41b-4c3e-ab81-9d13a5176196")
 	)
+	(global_label "Coms_TX"
+		(shape input)
+		(at 153.67 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "209e8fe5-8a54-4ea8-a0df-725468d0a873")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.9403 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SWD_NRST"
 		(shape input)
 		(at 85.09 167.64 180)
@@ -4716,6 +4728,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Coms_RX"
+		(shape input)
+		(at 153.67 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d3634477-b441-4241-8df4-89915fc4aa52")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.2427 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
