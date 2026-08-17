@@ -4,4 +4,5 @@
   (lib (name "W25Q128JVSIQ")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_W25Q128JVSIQ/KiCADv6/2026-07-31_15-46-43.kicad_sym")(options "")(descr ""))
   (lib (name "TMUX1574PWR")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_TMUX1574PWR/KiCADv6/2026-08-16_19-15-16.kicad_sym")(options "")(descr ""))
   (lib (name "MAX6369KA+T")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_MAX6369KA-T/KiCADv6/2026-08-16_20-36-26.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2052BDR")(type "KiCad")(uri "${KIPRJMOD}/FOOTPRINTS/TPS2052BDR/TPS2052BDR.kicad_sym")(options "")(descr ""))
 )
