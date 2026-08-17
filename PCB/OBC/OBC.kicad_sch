@@ -1689,7 +1689,7 @@
 		)
 	)
 	(sheet
-		(at 40.64 36.83)
+		(at 34.29 21.59)
 		(size 67.31 46.99)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1704,7 +1704,7 @@
 		)
 		(uuid "1810c3fc-ca6f-47eb-87b0-cae984a74971")
 		(property "Sheetname" "Main MCU"
-			(at 47.498 62.992 0)
+			(at 41.148 47.752 0)
 			(effects
 				(font
 					(size 7.62 7.62)
@@ -1713,7 +1713,7 @@
 			)
 		)
 		(property "Sheetfile" "main.kicad_sch"
-			(at 40.64 84.43 0)
+			(at 34.29 69.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1730,7 +1730,7 @@
 		)
 	)
 	(sheet
-		(at 144.78 35.56)
+		(at 138.43 20.32)
 		(size 64.77 46.99)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1745,7 +1745,7 @@
 		)
 		(uuid "3a0430c2-4b4c-48f1-add1-340d7081d402")
 		(property "Sheetname" "Coms MCU"
-			(at 146.304 60.452 0)
+			(at 139.954 45.212 0)
 			(effects
 				(font
 					(size 7.62 7.62)
@@ -1754,7 +1754,7 @@
 			)
 		)
 		(property "Sheetfile" "coms.kicad_sch"
-			(at 144.78 83.16 0)
+			(at 138.43 67.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1771,7 +1771,7 @@
 		)
 	)
 	(sheet
-		(at 144.78 99.06)
+		(at 138.43 83.82)
 		(size 64.77 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1786,7 +1786,7 @@
 		)
 		(uuid "3a8974f9-75f5-4e68-8bec-e287a5028d56")
 		(property "Sheetname" "Reset"
-			(at 159.766 121.666 0)
+			(at 153.416 106.426 0)
 			(effects
 				(font
 					(size 7.62 7.62)
@@ -1795,7 +1795,7 @@
 			)
 		)
 		(property "Sheetfile" "Reset.kicad_sch"
-			(at 144.78 141.5546 0)
+			(at 138.43 126.3146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1812,7 +1812,7 @@
 		)
 	)
 	(sheet
-		(at 35.56 99.06)
+		(at 29.21 83.82)
 		(size 88.9 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1827,7 +1827,7 @@
 		)
 		(uuid "50cd9bda-d2af-42b5-bb85-974edeb725b5")
 		(property "Sheetname" "Power and Protections"
-			(at 37.338 119.634 0)
+			(at 31.496 101.6 0)
 			(effects
 				(font
 					(size 5.08 5.08)
@@ -1836,7 +1836,7 @@
 			)
 		)
 		(property "Sheetfile" "storage.kicad_sch"
-			(at 35.56 140.2846 0)
+			(at 29.21 126.746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1848,6 +1848,48 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 142.24)
+		(size 87.63 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "514a1e41-70c9-4ec9-ab80-78f4389f53cb")
+		(property "Sheetname" "Memory"
+			(at 29.21 141.5284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "memory.kicad_sch"
+			(at 29.21 184.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "OBC"
+				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a"
+					(page "6")
 				)
 			)
 		)

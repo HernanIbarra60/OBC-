@@ -4,4 +4,5 @@
   (lib (name "W25Q128JVS")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_W25Q128JVSIQ/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "TMUX1574PWR")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_TMUX1574PWR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "MAX6369KA+T")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_MAX6369KA-T/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SN65HVD230DR")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_SN65HVD230DR/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
