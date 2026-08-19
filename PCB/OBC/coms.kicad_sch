@@ -3854,7 +3854,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 71.12) (xy 146.05 71.12)
+			(xy 137.16 71.12) (xy 143.51 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3964,7 +3964,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 73.66) (xy 146.05 73.66)
+			(xy 137.16 73.66) (xy 143.51 73.66)
 		)
 		(stroke
 			(width 0)
@@ -4084,6 +4084,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 81.28) (xy 143.51 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7087a20e-5966-4545-8cd8-3df42e57492d")
+	)
+	(wire
+		(pts
 			(xy 116.84 139.7) (xy 116.84 137.16)
 		)
 		(stroke
@@ -4141,6 +4151,16 @@
 			(type default)
 		)
 		(uuid "7ad05a13-1131-4cae-b8cf-eade4cd871c6")
+	)
+	(wire
+		(pts
+			(xy 137.16 83.82) (xy 143.51 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ee4c8fa-b2f6-407f-8f41-4553a4765c47")
 	)
 	(wire
 		(pts
@@ -4672,9 +4692,31 @@
 		)
 		(uuid "f9060983-e41b-4c3e-ab81-9d13a5176196")
 	)
+	(global_label "SWCLK1"
+		(shape input)
+		(at 143.51 83.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1147d604-b014-4c1f-bdab-45cdad4d870e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.9337 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Coms_TX"
 		(shape input)
-		(at 146.05 73.66 0)
+		(at 143.51 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4684,7 +4726,7 @@
 		)
 		(uuid "209e8fe5-8a54-4ea8-a0df-725468d0a873")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.3203 73.66 0)
+			(at 154.7803 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4716,9 +4758,31 @@
 			)
 		)
 	)
+	(global_label "SWDIO1"
+		(shape input)
+		(at 143.51 81.28 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ccd6f31-3c01-448f-b604-7e8ed44b53ad")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.5709 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Coms_RX"
 		(shape input)
-		(at 146.05 71.12 0)
+		(at 143.51 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4728,7 +4792,7 @@
 		)
 		(uuid "d3634477-b441-4241-8df4-89915fc4aa52")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.6227 71.12 0)
+			(at 155.0827 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)

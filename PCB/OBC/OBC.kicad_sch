@@ -2968,7 +2968,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "3a8974f9-75f5-4e68-8bec-e287a5028d56")
-		(property "Sheetname" "Reset"
+		(property "Sheetname" "Power"
 			(at 153.416 106.426 0)
 			(effects
 				(font
@@ -3036,7 +3036,7 @@
 		)
 	)
 	(sheet
-		(at 29.21 142.24)
+		(at 22.86 151.13)
 		(size 87.63 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3051,7 +3051,11 @@
 		)
 		(uuid "514a1e41-70c9-4ec9-ab80-78f4389f53cb")
 		(property "Sheetname" "Memory"
+<<<<<<< HEAD
 			(at 49.784 164.592 0)
+=======
+			(at 22.86 150.4184 0)
+>>>>>>> beea72d45d3c60d255c727e0bf712337bdc3a1c2
 			(effects
 				(font
 					(size 7.62 7.62)
@@ -3060,7 +3064,7 @@
 			)
 		)
 		(property "Sheetfile" "memory.kicad_sch"
-			(at 29.21 184.7346 0)
+			(at 22.86 193.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
