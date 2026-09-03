@@ -717,7 +717,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": false,
-      "sort_field": "Mouser"
+      "sort_field": "LCSC Part Name"
     },
     "connection_grid_size": 50.0,
     "drawing": {
