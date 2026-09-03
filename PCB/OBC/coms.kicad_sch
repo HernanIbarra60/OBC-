@@ -4692,7 +4692,7 @@
 		)
 		(uuid "f9060983-e41b-4c3e-ab81-9d13a5176196")
 	)
-	(global_label "SWCLK1"
+	(global_label "SWCLK2"
 		(shape input)
 		(at 143.51 83.82 0)
 		(fields_autoplaced yes)
@@ -4758,7 +4758,7 @@
 			)
 		)
 	)
-	(global_label "SWDIO1"
+	(global_label "SWDIO2"
 		(shape input)
 		(at 143.51 81.28 0)
 		(fields_autoplaced yes)
