@@ -3612,6 +3612,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C440198"
+			(at 118.11 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d35c504-d0f8-4d64-a9c6-1a1ac9b49fdc")
 		)
@@ -3762,6 +3770,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C528968"
+			(at 123.19 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f7cfc1eb-7b7a-40d6-a81c-db725edca411")
 		)
@@ -3877,6 +3893,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C440198"
+			(at 59.69 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4159,6 +4183,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C143773"
+			(at 121.92 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1bacca98-d65e-4ffa-82df-ada79c7930b7")
 		)
@@ -4227,6 +4259,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C42163122"
+			(at 53.34 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -4781,6 +4821,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C5266079"
+			(at 111.76 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6a940160-3ee4-40a5-ba9c-24609b50dda7")
 		)
@@ -4884,6 +4932,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C49678"
+			(at 133.35 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5057,6 +5113,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C19679468"
+			(at 49.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "48659cba-8848-40db-9d26-0bcd16c61f5f")
 		)
@@ -5123,6 +5187,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C369933"
+			(at 106.68 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -5368,6 +5440,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C130055"
+			(at 80.01 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

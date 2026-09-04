@@ -6601,6 +6601,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C19701189"
+			(at 140.97 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ddecd4a2-a6ca-4bb7-b428-f70720b5af72")
 		)
@@ -7775,6 +7783,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C19701189"
+			(at 129.54 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9a548c31-6c8a-45a5-bb60-46dfcc4571f2")
 		)
@@ -8855,6 +8871,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C6942002"
+			(at 31.75 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f489483e-5913-46c2-8bb3-541b77adb848")
 		)
@@ -9790,6 +9814,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C19679468"
+			(at 43.18 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
