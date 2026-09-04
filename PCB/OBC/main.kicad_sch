@@ -7678,6 +7678,28 @@
 			)
 		)
 	)
+	(global_label "5V"
+		(shape input)
+		(at 228.6 24.13 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28c2ff7f-38dd-4fa1-a922-1c1c372e9273")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 228.6 18.8467 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_D-"
 		(shape input)
 		(at 151.13 77.47 0)
