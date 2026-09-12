@@ -6601,6 +6601,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C2930157"
+			(at 140.97 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ddecd4a2-a6ca-4bb7-b428-f70720b5af72")
 		)
@@ -7767,6 +7776,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 129.54 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C2930157"
 			(at 129.54 171.45 0)
 			(effects
 				(font
@@ -9784,6 +9802,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 43.18 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C2907219"
 			(at 43.18 177.8 90)
 			(effects
 				(font

@@ -2418,6 +2418,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C2907219"
+			(at 254 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c517b6f-7b97-4f9a-ac0e-574df6ac38a9")
 		)
@@ -3134,6 +3143,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C1711"
+			(at 129.54 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef7f7839-d2ff-41dc-82df-8f14a40b2e88")
 		)
@@ -3557,6 +3575,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C1711"
+			(at 269.24 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1e1e1808-3344-402c-b141-53483a9b3be1")
 		)
@@ -3700,6 +3727,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 199.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C1711"
 			(at 199.39 62.23 0)
 			(effects
 				(font
@@ -3987,6 +4023,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C2907219"
+			(at 34.29 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac756be1-f744-4b04-8b80-4ed6efff4e60")
 		)
@@ -4195,6 +4240,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 109.22 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C2907219"
 			(at 109.22 67.31 0)
 			(effects
 				(font
@@ -4748,6 +4802,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C1711"
+			(at 119.38 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8fda86f-bb9a-43db-9a21-a3003f6da756")
 		)
@@ -5198,6 +5261,15 @@
 			)
 		)
 		(property "Mouser" ""
+			(at 173.99 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C2907219"
 			(at 173.99 88.9 90)
 			(effects
 				(font
