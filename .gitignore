@@ -87,3 +87,5 @@ desktop.ini
 
 # In this moment pin of stm32f7
 STM32F7/
+# Only office documents temporal
+.~lock.*
