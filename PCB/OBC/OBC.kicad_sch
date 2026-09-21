@@ -3502,7 +3502,7 @@
 		(at 243.84 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a6404a52-7c36-4e4a-a9c2-35b5200c9936")
@@ -3523,7 +3523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x24_P2.54mm_Vertical"
 			(at 243.84 113.03 0)
 			(effects
 				(font

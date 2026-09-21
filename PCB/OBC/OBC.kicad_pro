@@ -498,7 +498,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "OBC_Mouser.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -541,13 +541,13 @@
           "group_by": true,
           "label": "LCSC Part Name",
           "name": "LCSC Part Name",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -559,7 +559,7 @@
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -571,7 +571,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -655,7 +655,7 @@
           "group_by": true,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -703,7 +703,7 @@
           "group_by": true,
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -714,10 +714,10 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": false,
-      "sort_field": "LCSC Part Name"
+      "sort_field": "Mouser"
     },
     "connection_grid_size": 50.0,
     "drawing": {

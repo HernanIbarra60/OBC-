@@ -2287,7 +2287,7 @@
 		(at 254 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2310,7 +2310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 252.222 80.01 90)
 			(effects
 				(font
@@ -2711,7 +2711,7 @@
 		(at 212.09 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2734,7 +2734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TMUX1574PWR:PWP16_2P31X2P46_TEX"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 213.0552 66.04 0)
 			(effects
 				(font
@@ -2842,6 +2842,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C28323"
+			(at 212.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bb26852c-4628-438f-be50-5357b6a6f2d1")
 		)
@@ -2862,7 +2871,7 @@
 		(at 142.24 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2c85285e-d09a-44c4-a790-800e7a903117")
@@ -2884,7 +2893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "XTAL_NX3215SA_NDK:XTAL_NX3215SA_NDK"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 143.2052 76.2 0)
 			(effects
 				(font
@@ -2992,6 +3001,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part Name" "C28323"
+			(at 142.24 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "053176fe-478f-44e9-a9ee-d308e3b2093a")
 		)
@@ -3012,7 +3030,7 @@
 		(at 129.54 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3173,7 +3191,7 @@
 		(at 195.58 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3444,7 +3462,7 @@
 		(at 269.24 127 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3604,7 +3622,7 @@
 		(at 199.39 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3895,7 +3913,7 @@
 		(at 34.29 74.93 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5beec954-bcef-46f1-876e-d7fd13028a76")
@@ -3915,7 +3933,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 34.29 73.152 90)
 			(effects
 				(font
@@ -4117,7 +4135,7 @@
 		(at 109.22 67.31 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4140,7 +4158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 107.442 67.31 90)
 			(effects
 				(font
@@ -4671,7 +4689,7 @@
 		(at 119.38 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4963,7 +4981,7 @@
 		(at 10.16 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5141,7 +5159,7 @@
 		(at 173.99 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d853e023-9baf-4c8a-b444-b688a60df431")
@@ -5161,7 +5179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 173.99 87.122 90)
 			(effects
 				(font
@@ -5496,7 +5514,7 @@
 		(at 54.61 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f2c58e94-fe9f-4bd6-aee0-db1d202f4431")
@@ -5700,7 +5718,7 @@
 		(at 154.94 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)

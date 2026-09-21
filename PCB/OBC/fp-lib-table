@@ -9,4 +9,6 @@
   (lib (name "ECS-80-12-30BQ-JES-TR")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_ECS-80-12-30BQ-JES-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "XTAL_NX3215SA_NDK")(type "KiCad")(uri "${KIPRJMOD}/assets/ul_NX3215SA-32-768K-STD-MUA-9/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SlideSwitch2P3T")(type "KiCad")(uri "${KIPRJMOD}/FOOTPRINTS/easyeda2kicad/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "ESQ-124-38-L-D")(type "KiCad")(uri "${KIPRJMOD}/assets/LIB_ESQ-124-38-L-D/ESQ-124-38-L-D/KiCad")(options "")(descr ""))
+  (lib (name "USB4940-00-A")(type "KiCad")(uri "${KIPRJMOD}/assets/LIB_USB4940-00-A/USB4940-00-A/KiCad/USB4940-00-A.pretty")(options "")(descr ""))
 )

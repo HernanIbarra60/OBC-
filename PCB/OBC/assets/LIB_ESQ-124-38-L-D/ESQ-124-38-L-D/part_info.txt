@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=ESQ-124-38-L-D
+PartCategory=Connector
+PackageCategory=Other
+PinCount=48
+Version=1.1
+Released=2020-06-19 12:12:42
+Downloaded=2026-08-31 14:48:26
+3D=N

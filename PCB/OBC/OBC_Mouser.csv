@@ -1,0 +1,4 @@
+"Reference","Qty","Value","Mouser","Exclude from BOM","Footprint"
+"FB1,FB2,FB3","3","FerriteBead","81-BLM21HE601SN1L","","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+"J3","1","USB_C_Receptacle_USB2.0_16P","640-USB4940-00-A","","USB4940-00-A:USB494000A"
+"XTAL1,XTAL2,XTAL3","3","ECS-80-12-30BQ-JES-TR","520-8012-30BQ-JES-TR","","ECS-80-12-30BQ-JES-TR:ECS-80-12_ECS"
