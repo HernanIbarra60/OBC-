@@ -1,0 +1,94 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C5970161,CMP0805QFX-22R0ELF,BOURNS,0805,,22Ω 500mW Thick Film Resistor ±100ppm/℃ ±1% 0805 Chip Resistor - Surface Mount RoHS,yes,5,5,5,0.0982,0.49,https://www.lcsc.com/product-detail/C5970161.html
+2,C3000849,VJ0805Y104KXACW1BC,VISHAY,0805,,100nF ±10% 50V Ceramic Capacitor X7R 0805,yes,40,20,20,0.0154,0.62,https://www.lcsc.com/product-detail/C3000849.html
+3,C6119928,CGA0805X7R105K101MT,HRE,0805,,1uF ±10% 100V Ceramic Capacitor X7R 0805,yes,5,5,5,0.0943,0.47,https://www.lcsc.com/product-detail/C6119928.html
+4,C913595,GRM21A5C2E100JW01D,muRata,0805,,10pF ±5% 250V Ceramic Capacitor C0G 0805,yes,10,10,10,0.0576,0.58,https://www.lcsc.com/product-detail/C913595.html
+5,C2175468,VJ0805V225MXJTW1BC,VISHAY,0805,,2.2uF ±20% 16V Ceramic Capacitor Y5V 0805,yes,10,5,5,0.0200,0.20,https://www.lcsc.com/product-detail/C2175468.html
+6,C415302,CGA4C2C0G1H332JT0Y0N,TDK,0805,,3.3nF ±5% 50V Ceramic Capacitor C0G 0805,yes,10,10,10,0.0476,0.48,https://www.lcsc.com/product-detail/C415302.html
+7,C2169545,VJ0805Y103KXACW1BC,VISHAY,0805,,10nF ±10% 50V Ceramic Capacitor X7R 0805,yes,10,10,10,0,0,https://www.lcsc.com/product-detail/C2169545.html
+8,C162422,GRM21BR6YA106KE43L,muRata,0805,,10uF ±10% 35V Ceramic Capacitor X5R 0805,yes,5,5,5,0,0,https://www.lcsc.com/product-detail/C162422.html
+9,C2174635,VJ0805Y474KXJTW1BC,VISHAY,0805,,470nF ±10% 16V Ceramic Capacitor X7R 0805,yes,5,5,5,0.0108,0.05,https://www.lcsc.com/product-detail/C2174635.html
+10,C162420,GRM21BR61H475KE51L,muRata,0805,,4.7uF ±10% 50V Ceramic Capacitor X5R 0805,yes,5,5,5,0,0,https://www.lcsc.com/product-detail/C162420.html
+11,C117815,STM32F427VGT6,ST,LQFP-100(14x14),,ARM Cortex-M4 32 Bit 180MHz LQFP-100(14x14) Microcontrollers RoHS,yes,2,1,1,9.1987,18.40,https://www.lcsc.com/product-detail/C117815.html
+12,C51966230,MKDV1GCL-ABF,MK,LGA-8(6x8),,"1Gbit 2.7V~3.6V 50MHz SD interface LGA-8(6x8) Memory ",yes,5,1,1,5.0860,25.43,https://www.lcsc.com/product-detail/C51966230.html
+13,C124187,BAT760-7,DIODES,SOD-323,,1 Independent 30V 550mV@1A 1A SOD-323 Single Diodes RoHS,yes,10,5,5,0.2508,2.51,https://www.lcsc.com/product-detail/C124187.html
+14,C60420,STM32F411CEU6,ST,UFQFPN-48(7x7),,ARM Cortex-M4 32 Bit 100MHz UFQFPN-48(7x7) Microcontrollers RoHS,yes,2,1,1,6.1121,12.22,https://www.lcsc.com/product-detail/C60420.html
+15,C8322,STM32F103RET6,ST,LQFP-64(10x10),,ARM Cortex-M3 32 Bit 72MHz LQFP-64(10x10) Microcontrollers RoHS,yes,2,1,1,3.9051,7.81,https://www.lcsc.com/product-detail/C8322.html
+16,C130055,TPS2553QDBVRQ1,TI,SOT-23-6,,High Side Switch 1 Channel 1.5A SOT-23-6,yes,3,1,1,2.5844,7.75,https://www.lcsc.com/product-detail/C130055.html
+17,C107335,MPZ1608S601ATA00,TDK,0603,,600Ω@100MHz 1 Line Ferrite Bead 0603 1A 150mΩ,yes,10,10,10,0.0186,0.19,https://www.lcsc.com/product-detail/C107335.html
+18,C964632,CP2102N-A02-GQFN28R,SILICON LABS,QFN-28-EP(5x5),,USB to UART QFN-28-EP(5x5) Controllers RoHS,yes,2,1,1,1.8366,3.67,https://www.lcsc.com/product-detail/C964632.html
+19,C12084,SN65HVD230DR,TI,SOIC-8,,"3V~3.6V CAN Transceiver 1Mbps SOIC-8 Drivers, Receivers, Transceivers RoHS",yes,6,1,1,0.6410,3.85,https://www.lcsc.com/product-detail/C12084.html
+20,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,128Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory RoHS,yes,3,1,1,2.5782,7.73,https://www.lcsc.com/product-detail/C97521.html
+21,C55266,TPS2553DBVR,TI,SOT-23-6,,"1 Active High 1.5A High Side Switch SOT-23-6 Power Distribution Switches, Load Drivers RoHS",yes,2,1,1,0.5434,1.09,https://www.lcsc.com/product-detail/C55266.html
+22,C38523,CL10C120JB8NNNC,Samsung Electro-Mechanics,0603,,12pF ±5% 50V Ceramic Capacitor C0G 0603,yes,50,50,50,0.0132,0.66,https://www.lcsc.com/product-detail/C38523.html
+23,C28323,CL21B105KBFNNNE,Samsung Electro-Mechanics,0805,,1uF ±10% 50V Ceramic Capacitor X7R 0805,yes,10,10,10,0.0403,0.40,https://www.lcsc.com/product-detail/C28323.html
+24,C19110,CL21B225KAFNNNE,Samsung Electro-Mechanics,0805,,2.2uF ±10% 25V Ceramic Capacitor X7R 0805,yes,20,10,10,0.0338,0.68,https://www.lcsc.com/product-detail/C19110.html
+25,C17437,0805W8F1200T5E,UNI-ROYAL,0805,,120Ω ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0062,0.62,https://www.lcsc.com/product-detail/C17437.html
+26,C15742,STM32F405RGT6,ST,LQFP-64(10x10),,ARM Cortex-M4 32 Bit 168MHz LQFP-64(10x10) Microcontrollers RoHS,yes,9,1,1,6.0228,54.21,https://www.lcsc.com/product-detail/C15742.html
+27,C8025,TAJD157K016RNJ,Kyocera AVX,CASE-D-7343-31(mm),,150uF ±10% 16V Tantalum Capacitors 900mΩ@100kHz CASE-D-7343,yes,2,1,1,1.4354,2.87,https://www.lcsc.com/product-detail/C8025.html
+28,C7519,USBLC6-2SC6,ST,SOT-23-6L,,17VC Clamp 5A Ipp ESD DIODE SOT-23-6L,yes,5,5,5,0.1780,0.89,https://www.lcsc.com/product-detail/C7519.html
+29,C6186,AMS1117-3.3,Advanced Monolithic Systems,SOT-223,,"3.3V Positive Fixed SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,5,5,0.2203,1.10,https://www.lcsc.com/product-detail/C6186.html
+30,C1711,CL21B104KBCNNNC,Samsung Electro-Mechanics,0805,,100nF ±10% 50V Ceramic Capacitor X7R 0805,yes,20,20,20,0.0151,0.30,https://www.lcsc.com/product-detail/C1711.html
+31,C1644,CL10C150JB8NNNC,Samsung Electro-Mechanics,0603,,15pF ±5% 50V Ceramic Capacitor C0G 0603,yes,50,50,50,0.0115,0.58,https://www.lcsc.com/product-detail/C1644.html
+32,C237493,GRM21BZ71E106KE15L,muRata,0805,,10uF ±10% 25V Ceramic Capacitor X7R 0805,yes,5,5,5,0.3199,1.60,https://www.lcsc.com/product-detail/C237493.html
+33,C128613,MAX6369KA+T,MAXIM,SOT-23-8,,100ms Watchdog timer Active Low 2.5V~5.5V 1 SOT-23-8 Supervisors RoHS,yes,4,1,1,2.1919,8.77,https://www.lcsc.com/product-detail/C128613.html
+34,C2907264,FRC0805F4701TS,FOJAN,0805,,4.7kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0030,0.30,https://www.lcsc.com/product-detail/C2907264.html
+35,C15725,CL10B104KC8NNNC,Samsung Electro-Mechanics,0603,,100nF ±10% 100V Ceramic Capacitor X7R 0603,yes,50,50,50,0.0134,0.67,https://www.lcsc.com/product-detail/C15725.html
+36,C49234124,HX 3x4x2-2P-1.6N TACTILE SWITCH,hanxia,"SMD,4x3mm",,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,20,20,20,0.0243,0.49,https://www.lcsc.com/product-detail/C49234124.html
+37,C41417362,HX PZ2.54-1x5P TP-YQ,hanxia,"SMD,P=2.54mm(Staggered Pins)",,Pin Header 5 Position 2.54mm Pitch Single Row -40℃~+105℃,yes,10,10,10,0.0619,0.62,https://www.lcsc.com/product-detail/C41417362.html
+38,C22401620,CAS-120A1,Nidec,SMD,,"Surface Mount,Vertical 100mA SPDT 6V White SMD Slide Switches RoHS",yes,3,1,1,0.6826,2.05,https://www.lcsc.com/product-detail/C22401620.html
+39,C2933386,FRC0805F2612TS,FOJAN,0805,,26.1kΩ ±1% 125mW 0805 Thick Film Resistor,yes,200,100,100,0.0034,0.68,https://www.lcsc.com/product-detail/C2933386.html
+40,C2930157,FRC0805F3300TS,FOJAN,0805,,330Ω ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0038,0.38,https://www.lcsc.com/product-detail/C2930157.html
+41,C2907219,FRC0805F1002TS,FOJAN,0805,,10kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0034,0.34,https://www.lcsc.com/product-detail/C2907219.html
+42,C2673443,TMUX1574PWR,TI,TSSOP-16,,4 Circuit IC SWITCH 2:1 2Ω TSSOP-16,yes,3,1,1,0.5512,1.65,https://www.lcsc.com/product-detail/C2673443.html
+43,C965815,XL-2012UGC,XINGLIGHT,0805,,Emerald Green 525nm LED Indication - Discrete 3.2V 0805,yes,100,100,100,0.0066,0.66,https://www.lcsc.com/product-detail/C965815.html
+44,C965812,XL-2012SURC,XINGLIGHT,0805,,Red 620nm LED Indication - Discrete 2.3V 0805,yes,100,100,100,0.0070,0.70,https://www.lcsc.com/product-detail/C965812.html
+45,C519280,NX3215SA-32.768K-STD-MUA-9,NDK,SMD3215-2P,,Crystal 32.768kHz ±20ppm 9pF 70kΩ SMD3215-2P,yes,5,5,5,0.4337,2.17,https://www.lcsc.com/product-detail/C519280.html
+46,C2907269,FRC0805F5101TS,FOJAN,0805,,5.1kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0039,0.39,https://www.lcsc.com/product-detail/C2907269.html
+47,C98195,CL21B475KAFNNNE,Samsung Electro-Mechanics,0805,,4.7uF ±10% 25V Ceramic Capacitor X7R 0805,yes,20,10,10,0.0527,1.05,https://www.lcsc.com/product-detail/C98195.html
+48,C703724,LQW2BAS56NG00L,muRata,0805,,500mA 56nH ±2% 340mΩ 0805 Fixed Inductors RoHS,yes,5,5,5,0.1296,0.65,https://www.lcsc.com/product-detail/C703724.html
+49,C965813,XL-2012UOC,XINGLIGHT,0805,,Orange 605nm LED Indication - Discrete 2.3V 0805,yes,50,50,50,0.0088,0.44,https://www.lcsc.com/product-detail/C965813.html
+50,C2986044,17-21SURC/S530-A2/4T,EVERLIGHT,0805,,632nm 15mcd~38mcd 140° 25mA Red 2V 624nm 0805 LED Indication - Discrete RoHS,yes,50,50,50,0.0156,0.78,https://www.lcsc.com/product-detail/C2986044.html
+51,C23891612,SML-210MTT86M,ROHM,0805,,3.6mcd~16mcd Green 20mA 2mm x 1.25mm square LED 2.2V 560nm 0805 LED Indication - Discrete RoHS,yes,5,5,5,0.0969,0.48,https://www.lcsc.com/product-detail/C23891612.html
+52,C242410,DTC144EET1G,onsemi,SC-75(SOT-416),,Pre-Biased Bipolar Transistor (BJT) 50V 100mA 200mW Surface Mount SC-75(SOT-416),yes,10,10,10,0.0517,0.52,https://www.lcsc.com/product-detail/C242410.html
+53,C17414,0805W8F1002T5E,UNI-ROYAL,0805,,10kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0039,0.39,https://www.lcsc.com/product-detail/C17414.html
+54,C2907232,FRC0805F1001TS,FOJAN,0805,,1kΩ ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0031,0.31,https://www.lcsc.com/product-detail/C2907232.html
+55,C2907294,FRC0805J101 TS,FOJAN,0805,,100Ω ±5% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0031,0.31,https://www.lcsc.com/product-detail/C2907294.html
+56,C2930296,FRC0805J512TS,FOJAN,0805,,5.1kΩ ±5% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0022,0.22,https://www.lcsc.com/product-detail/C2930296.html
+57,C2907224,FRC0805F1200TS,FOJAN,0805,,120Ω ±1% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0037,0.37,https://www.lcsc.com/product-detail/C2907224.html
+58,C2907310,FRC0805J220 TS,FOJAN,0805,,22Ω ±5% 125mW 0805 Thick Film Resistor,yes,100,100,100,0.0033,0.33,https://www.lcsc.com/product-detail/C2907310.html
+59,C231324,B3FS-1010P,OMRON,"SMD-4P,6.3x6mm",,Tactile Switch SPST 100gf 4.3mm Gull Wing 6.3mm x 6mm Surface Mount,yes,5,5,5,0.3126,1.56,https://www.lcsc.com/product-detail/C231324.html
+60,C49678,CC0805KRX7R9BB104,YAGEO,0805,,100nF ±10% 50V Ceramic Capacitor X7R 0805,yes,40,20,20,0.0195,0.78,https://www.lcsc.com/product-detail/C49678.html
+61,C32713283,HX PZ2.54-2x3P TP,hanxia,"SMD,P=2.54mm",,Pin Header 6 Position 2.54mm Pitch Dual Row Surface Mount -40℃~+105℃,yes,10,10,10,0.0496,0.50,https://www.lcsc.com/product-detail/C32713283.html
+62,C7509546,DS1023-1x4SF11,CONNFLY Elec,"Through Hole,P=2.54mm",,Female Header 2.54mm Pitch Single Row Through Hole,yes,10,10,10,0.0541,0.54,https://www.lcsc.com/product-detail/C7509546.html
+63,C501985,NLFV32T-1R0M-EF,TDK,1210,,750mA 1uH ±20% 60mΩ Wire-wound inductor 1210 Fixed Inductors RoHS,yes,6,2,2,0.1406,0.84,https://www.lcsc.com/product-detail/C501985.html
+64,C100083,CL21B106KQQNNNE,Samsung Electro-Mechanics,0805,,10uF ±10% 6.3V Ceramic Capacitor X7R 0805,yes,20,10,10,0.0640,1.28,https://www.lcsc.com/product-detail/C100083.html
+65,C24123,CL21B105KOFNNNE,Samsung Electro-Mechanics,0805,,1uF ±10% 16V Ceramic Capacitor X7R 0805,yes,20,20,20,0.0250,0.50,https://www.lcsc.com/product-detail/C24123.html
+66,C597359,08055A150JAT2A,Kyocera AVX,0805,,15pF ±5% 50V Ceramic Capacitor C0G 0805,yes,50,50,50,0.0169,0.85,https://www.lcsc.com/product-detail/C597359.html
+67,C42405022,V3MC0771E151MVTM,Ymin,"SMD,D6.3xL7.7mm",,"25V ±20% 150uF 320mΩ@100kHz SMD,D6.3xL7.7mm Aluminum Electrolytic Capacitors ",yes,5,5,5,0.1853,0.93,https://www.lcsc.com/product-detail/C42405022.html
+68,C2169741,08055C101KAT2A,Kyocera AVX,0805,,100pF ±10% 50V Ceramic Capacitor X7R 0805,yes,10,10,10,0.0260,0.26,https://www.lcsc.com/product-detail/C2169741.html
+69,C20345393,ESD2CANXL24DBZRQ1,TI,SOT-23,,36VC Clamp 2.5A@8/20us Ipp ESD DIODE SOT-23,yes,5,5,5,0.2835,1.42,https://www.lcsc.com/product-detail/C20345393.html
+70,C2827654,USBLC6-2SC6,TECH PUBLIC,SOT-23-6,,12VC Clamp 6A Ipp ESD DIODE SOT-23-6,yes,10,10,10,0.0449,0.45,https://www.lcsc.com/product-detail/C2827654.html
+71,C167450,BLM31PG601SH1L,muRata,1206,,600Ω@100MHz 1 Line Ferrite Bead 1206 1.5A 80mΩ,yes,5,5,5,0.2281,1.14,https://www.lcsc.com/product-detail/C167450.html
+72,C435835,LDL1117S33R,ST,SOT-223-4,,"3.3V Positive Fixed SOT-223-4 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,2,1,1,0.5327,1.07,https://www.lcsc.com/product-detail/C435835.html
+73,C111738,TPS2553DBVR-1,TI,SOT-23-6,,"1 Active High 1.5A High Side Switch SOT-23-6 Power Distribution Switches, Load Drivers RoHS",yes,10,5,5,0.2952,2.95,https://www.lcsc.com/product-detail/C111738.html
+74,C19626363,AQ3530-01FTG(UMW),UMW,SOD-323,,15VC Clamp ESD DIODE SOD-323,yes,10,10,10,0.0590,0.59,https://www.lcsc.com/product-detail/C19626363.html
+75,C413486,WSL2512R0500FEA,VISHAY,2512,,1W 50mΩ ±75ppm/℃ ±1% 2512 Chip Resistor - Surface Mount RoHS,yes,5,5,5,0.2374,1.19,https://www.lcsc.com/product-detail/C413486.html
+76,C161260,GCM21BR71H104KA37L,muRata,0805,,100nF ±10% 50V Ceramic Capacitor X7R 0805,yes,80,20,20,0.0474,3.79,https://www.lcsc.com/product-detail/C161260.html
+77,C265428,SZE-002T-P0.3,JST,-,,Connector Terminal Tin Crimp,yes,80,20,20,0.0242,1.94,https://www.lcsc.com/product-detail/C265428.html
+78,C265075,ZER-04V-S,JST,P=1.5mm,,Connector Housing 4 Position 1.5mm Pitch Single Row ZE Series -25℃~+85℃,yes,5,5,5,0.0722,0.36,https://www.lcsc.com/product-detail/C265075.html
+79,C697811,SM04B-ZESS-TB(LF)(SN),JST,"SMD,P=1.5mm,Surface Mount,Right Angle",,"Connector Header 4 position 1.5mm Pitch 2A Surface Mount, Right Angle -25℃~+85℃",yes,4,1,1,0.5835,2.33,https://www.lcsc.com/product-detail/C697811.html
+80,C595666,ZER-08V-S,JST,P=1.5mm,,Connector Housing 8 Position 1.5mm Pitch Single Row ZE Series -25℃~+85℃,yes,5,5,5,0.1383,0.69,https://www.lcsc.com/product-detail/C595666.html
+81,C490381,SL03-GS08,VISHAY,DO-219AB(SMF),,Diode 1 Independent 30V 1.1A Surface Mount DO-219AB(SMF),yes,5,5,5,0.1427,0.71,https://www.lcsc.com/product-detail/C490381.html
+82,C2653870,INA226AIDGST,TI,VSSOP-10-0.5mm,,36V 500kHz 2.5uV 10uA VSSOP-10-0.5mm Current Regulation/Management RoHS,yes,2,1,1,0.9453,1.89,https://www.lcsc.com/product-detail/C2653870.html
+83,C566917,ZER-10V-S,JST,P=1.5mm,,1.5mm 1 -25℃~+85℃ ZE 1x10P 10 Non-Latching P=1.5mm Rectangular Connector Housings RoHS,yes,5,5,5,0.1769,0.88,https://www.lcsc.com/product-detail/C566917.html
+84,C5306635,SM10B-ZESS-TB(LF)(SN),JST,"SMD,P=1.5mm,Surface Mount,Right Angle",,"Surface Mount, Right Angle ZE 100V 10 1 1.5mm 2A 10P -25℃~+85℃ Tin 1x10P SMD,P=1.5mm,Surface Mount,Right Angle Headers, Male Pins RoHS",yes,4,1,1,0.9686,3.87,https://www.lcsc.com/product-detail/C5306635.html
+85,C20044576,GRT31CC71E226ME13L,muRata,1206,,22uF ±20% 25V Ceramic Capacitor X7S,yes,5,1,1,0.6633,3.32,https://www.lcsc.com/product-detail/C20044576.html
+86,C313823,CRCW080510K0FKEAHP,VISHAY,0805,,500mW 10kΩ 150V Thick Film Resistor ±1% ±100ppm/℃ 0805 Chip Resistor - Surface Mount RoHS,yes,30,10,10,0.0536,1.61,https://www.lcsc.com/product-detail/C313823.html
+87,C140261,TLV3701QDBVRQ1,TI,SOT-23-5,,1 560nA 250uV SOT-23-5 Comparators RoHS,yes,2,1,1,1.2831,2.57,https://www.lcsc.com/product-detail/C140261.html
+88,C699536,TMP117AIDRVR,TI,WDFN-6-EP(2x2),,-55℃~+150℃ ±0.1℃ WDFN-6-EP(2x2) Analog and Digital Output RoHS,yes,2,1,1,1.0289,2.06,https://www.lcsc.com/product-detail/C699536.html
+89,C116509,HY2120-CB,HYCON,SOT-23-6,,"Lithium Battery SOT-23-6 Battery Management ",yes,5,5,5,0.2393,1.20,https://www.lcsc.com/product-detail/C116509.html
+90,C2830320,FS8205A,TECH PUBLIC,SOT-23-6,,20V 9A 1.5W Surface Mount SOT-23-6,yes,10,10,10,0.0502,0.50,https://www.lcsc.com/product-detail/C2830320.html
+91,C114109,436500312,MOLEX,"SMD,P=3mm,Surface Mount,Right Angle",,"Connector Header 3 position 3mm Pitch 8.5A Surface Mount, Right Angle -40℃~+105℃",yes,2,1,1,1.2413,2.48,https://www.lcsc.com/product-detail/C114109.html
+92,C259740,436450300,MOLEX,P=3mm,,Connector Housing 3 Position 3mm Pitch Single Row Micro-Fit(MX 3.0) Series -40℃~+105℃,yes,5,5,5,0.1267,0.63,https://www.lcsc.com/product-detail/C259740.html
+93,C259786,430300001,MOLEX,-,,Connector Terminal Micro-Fit(MX 3.0) Tin 20~24 AWG Crimp,yes,100,100,100,0.0149,1.49,https://www.lcsc.com/product-detail/C259786.html
