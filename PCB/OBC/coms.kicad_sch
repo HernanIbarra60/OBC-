@@ -4219,18 +4219,6 @@
 		(uuid "5fa8f4bb-a49a-48ad-9646-a7e859955c5f")
 	)
 	(junction
-		(at 264.16 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62ed5375-3397-4d1a-849b-556b8762d829")
-	)
-	(junction
-		(at 264.16 107.95)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e8233d8-b996-4d77-b922-5eca4e1caab8")
-	)
-	(junction
 		(at 116.84 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4598,16 +4586,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 107.95) (xy 264.16 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "13838086-8854-414d-aa41-61a1ad387cba")
-	)
-	(wire
-		(pts
 			(xy 185.42 95.25) (xy 185.42 97.79)
 		)
 		(stroke
@@ -4655,16 +4633,6 @@
 			(type default)
 		)
 		(uuid "1934e88e-fc32-463e-8086-f52cc8a08740")
-	)
-	(wire
-		(pts
-			(xy 260.35 95.25) (xy 264.16 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a42e0ca-5786-4a23-98c8-4c815c49e303")
 	)
 	(wire
 		(pts
@@ -5508,16 +5476,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 99.06) (xy 264.16 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b93f74dd-7864-48ec-b523-66243281e289")
-	)
-	(wire
-		(pts
 			(xy 90.17 116.84) (xy 96.52 116.84)
 		)
 		(stroke
@@ -5628,7 +5586,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 107.95) (xy 269.24 107.95)
+			(xy 260.35 107.95) (xy 269.24 107.95)
 		)
 		(stroke
 			(width 0)
@@ -5678,16 +5636,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 104.14) (xy 264.16 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea9f3076-121a-43bb-9eee-43d4ff34f79a")
-	)
-	(wire
-		(pts
 			(xy 140.97 39.37) (xy 140.97 40.64)
 		)
 		(stroke
@@ -5718,7 +5666,7 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 95.25) (xy 269.24 95.25)
+			(xy 260.35 95.25) (xy 269.24 95.25)
 		)
 		(stroke
 			(width 0)
@@ -9319,165 +9267,6 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/3a0430c2-4b4c-48f1-add1-340d7081d402"
 					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 264.16 101.6 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4ac58632-7554-40d8-ba98-7a95d6ca66f1")
-		(property "Reference" "R23"
-			(at 265.43 101.092 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "120"
-			(at 265.176 102.616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "C17437"
-			(at 264.16 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "acb32c9f-a8be-4af0-8850-ab3326445ae2")
-		)
-		(pin "2"
-			(uuid "1ca8c1cf-fc05-4a98-a209-fb51a5220389")
-		)
-		(instances
-			(project "OBC"
-				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/3a0430c2-4b4c-48f1-add1-340d7081d402"
-					(reference "R23")
 					(unit 1)
 				)
 			)

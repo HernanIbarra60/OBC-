@@ -1576,7 +1576,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 73.66) (xy 24.13 74.93)
+			(xy 24.13 74.93) (xy 24.13 73.66)
 		)
 		(stroke
 			(width 0)
@@ -4434,7 +4434,7 @@
 		(dnp no)
 		(uuid "5beec954-bcef-46f1-876e-d7fd13028a76")
 		(property "Reference" "R16"
-			(at 30.988 77.724 90)
+			(at 28.702 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
