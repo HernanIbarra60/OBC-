@@ -711,7 +711,7 @@
 		(uuid "cb6ea9b6-8734-4826-8cfc-fa08e143e499")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Footprints/ul_W25Q128JVSIQ/SOIC_128JVSIQ_WIN.step"
+	(model "${KIPRJMOD}/assets/ul_W25Q128JVSIQ/SOIC_128JVSIQ_WIN.step"
 		(offset
 			(xyz 0 0 0)
 		)
