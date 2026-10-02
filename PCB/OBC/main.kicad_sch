@@ -7743,6 +7743,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 137.16) (xy 209.55 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d15f72d6-da91-4ea5-b3d1-7937536e8391")
+	)
+	(wire
+		(pts
 			(xy 219.71 44.45) (xy 219.71 41.91)
 		)
 		(stroke
@@ -8540,6 +8550,28 @@
 			)
 		)
 	)
+	(global_label "d3v3"
+		(shape input)
+		(at 209.55 137.16 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5f62557c-6e82-4dd7-b6bb-b9c2782a7762")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 209.55 129.6392 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PY2_RX"
 		(shape input)
 		(at 96.52 67.31 180)
@@ -9225,7 +9257,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 51.7652 34.29 0)
 			(effects
 				(font
@@ -9261,7 +9293,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "C1711"
+		(property "LCSC Part Name" "C15725"
 			(at 50.8 30.48 0)
 			(effects
 				(font
@@ -10101,72 +10133,6 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/1810c3fc-ca6f-47eb-87b0-cae984a74971"
 					(reference "#PWR021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 209.55 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "35b9258e-ccbb-4ef1-ade6-e93c5fba1931")
-		(property "Reference" "#PWR075"
-			(at 209.55 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 209.55 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 209.55 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "372cca0f-e729-4952-abb2-e739ebe11310")
-		)
-		(instances
-			(project "OBC"
-				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/1810c3fc-ca6f-47eb-87b0-cae984a74971"
-					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -15810,7 +15776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 74.6252 34.29 0)
 			(effects
 				(font
@@ -15846,7 +15812,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "C1711"
+		(property "LCSC Part Name" "C15725"
 			(at 73.66 30.48 0)
 			(effects
 				(font

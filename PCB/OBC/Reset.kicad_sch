@@ -534,6 +534,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Schottky"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Schottky"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Schottky diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode Schottky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Schottky_0_1"
+				(polyline
+					(pts
+						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Schottky_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:FerriteBead"
 			(pin_numbers
 				(hide yes)
@@ -3648,6 +3798,18 @@
 		)
 	)
 	(rectangle
+		(start 127 152.4)
+		(end 168.91 186.69)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4a3153b4-cf00-42c8-afae-f6a326846fb0)
+	)
+	(rectangle
 		(start 35.56 152.4)
 		(end 127 186.69)
 		(stroke
@@ -3658,6 +3820,18 @@
 			(type none)
 		)
 		(uuid b0d9eea9-f14e-441c-85ba-d9357afbef9c)
+	)
+	(rectangle
+		(start 127 152.4)
+		(end 127 186.69)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b461b2ef-8952-43da-8f5c-35640b492c55)
 	)
 	(text "Boot and Reset "
 		(exclude_from_sim no)
@@ -3670,26 +3844,6 @@
 			)
 		)
 		(uuid "230ab87b-3726-4810-8529-a59e9de5f29e")
-	)
-	(text_box ""
-		(exclude_from_sim no)
-		(at 127 152.4 0)
-		(size 43.18 34.29)
-		(margins 0.9525 0.9525 0.9525 0.9525)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(fill
-			(type none)
-		)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "5198f62a-0912-4ddb-bb24-8c24e2ecae3a")
 	)
 	(text_box "Datasheet and aplication notes\n- Vcap_1/Vcap_2: 2.2 uF low ESR <2 ohm"
 		(exclude_from_sim no)
@@ -4009,16 +4163,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 163.83) (xy 151.13 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00b3fd92-ab14-41b0-b372-4819b6860e9a")
-	)
-	(wire
-		(pts
 			(xy 40.64 171.45) (xy 43.18 171.45)
 		)
 		(stroke
@@ -4086,6 +4230,16 @@
 			(type default)
 		)
 		(uuid "0c1bf5b6-3072-4e53-9c5c-2ca1fd466c1d")
+	)
+	(wire
+		(pts
+			(xy 137.16 161.29) (xy 137.16 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d3bfbb4-a69a-44fd-8c15-14e637953110")
 	)
 	(wire
 		(pts
@@ -4489,6 +4643,16 @@
 	)
 	(wire
 		(pts
+			(xy 140.97 161.29) (xy 137.16 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e119b66-3608-42ef-a530-b43eb082375f")
+	)
+	(wire
+		(pts
 			(xy 149.86 33.02) (xy 160.02 33.02)
 		)
 		(stroke
@@ -4566,6 +4730,16 @@
 			(type default)
 		)
 		(uuid "768ba346-7a8a-42ce-b504-a2909e24ffc4")
+	)
+	(wire
+		(pts
+			(xy 148.59 161.29) (xy 151.13 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "782dc76f-28e2-4cfb-8491-b4153064a3d5")
 	)
 	(wire
 		(pts
@@ -5096,6 +5270,16 @@
 			(type default)
 		)
 		(uuid "f6d581fb-a3aa-4d03-8c57-d3ff5c3d888b")
+	)
+	(wire
+		(pts
+			(xy 151.13 161.29) (xy 151.13 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faeee6f2-472c-477f-a98c-42ecdce1831d")
 	)
 	(label "SWCLK_RST"
 		(at 152.4 77.47 0)
@@ -7440,7 +7624,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 87.3252 33.02 0)
 			(effects
 				(font
@@ -7476,7 +7660,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "C1711"
+		(property "LCSC Part Name" "C15725"
 			(at 86.36 29.21 0)
 			(effects
 				(font
@@ -8110,6 +8294,173 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Schottky")
+		(at 144.78 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a356414-4f42-433a-b193-6446a9d83b2d")
+		(property "Reference" "D8"
+			(at 144.4625 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 144.4625 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Schottky diode"
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C124187"
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 144.78 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c7945dc-0e10-4a12-aebf-a3e0d396eed3")
+		)
+		(pin "2"
+			(uuid "4e371010-c661-4e5b-ad99-b9cabd8ee077")
+		)
+		(instances
+			(project "OBC"
+				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/3a8974f9-75f5-4e68-8bec-e287a5028d56"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 45.72 60.96 180)
 		(unit 1)
@@ -8308,7 +8659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 64.4652 33.02 0)
 			(effects
 				(font
@@ -8344,7 +8695,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "C1711"
+		(property "LCSC Part Name" "C15725"
 			(at 63.5 29.21 0)
 			(effects
 				(font
@@ -8703,7 +9054,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 144.78 163.83 0)
+		(at 137.16 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8712,7 +9063,7 @@
 		(fields_autoplaced yes)
 		(uuid "921d7a4e-c4a3-43bd-9137-e52a7e72a096")
 		(property "Reference" "#PWR0107"
-			(at 144.78 167.64 0)
+			(at 137.16 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8721,7 +9072,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 144.78 158.75 0)
+			(at 137.16 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8729,7 +9080,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 163.83 0)
+			(at 137.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8738,7 +9089,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 163.83 0)
+			(at 137.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8747,7 +9098,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 144.78 163.83 0)
+			(at 137.16 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)

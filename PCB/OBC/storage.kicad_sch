@@ -3129,7 +3129,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1b491d77-d728-4ea4-b407-80a1e090009b")
+		(uuid "edea61c6-7caa-4275-96a6-f6fedd93f0d4")
 	)
 	(global_label "watchdog"
 		(shape input)
@@ -3377,177 +3377,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_US")
-		(at 119.38 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1041f54b-9b37-4341-9820-1d7c4a29b8d9")
-		(property "Reference" "C60"
-			(at 122.428 104.394 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "150uF"
-			(at 122.428 106.934 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_HandSolder"
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "capacitor, US symbol"
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description_1" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MP" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser" ""
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "C8025"
-			(at 119.38 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f7cfc1eb-7b7a-40d6-a81c-db725edca411")
-		)
-		(pin "2"
-			(uuid "0ec32b2d-e73a-4ef4-a822-1e8219172718")
-		)
-		(instances
-			(project "OCP_TPS2553"
-				(path "/c986b675-8444-45ec-82e8-67e7d12ef1cf"
-					(reference "C?")
-					(unit 1)
-				)
-			)
-			(project "OBC"
-				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
-					(reference "C60")
-					(unit 1)
-				)
-			)
-			(project "PCB_PAY1"
-				(path "/ff5be7ba-b218-48d9-8266-27775e57aa5f/d4389cde-8cfb-4c41-8db8-d2592a48e22c"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 55.88 100.33 0)
 		(unit 1)
@@ -3656,6 +3485,216 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
 					(reference "C50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "TPS2553QDBVRQ1_1")
+		(lib_id "OCP_TPS2553QDBVRQ1:TPS2553QDBVRQ1")
+		(at 76.2 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14a80cdb-6fb8-4cb1-afbd-d253bf0ec5d3")
+		(property "Reference" "IC1"
+			(at 90.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS2553QDBVRQ1"
+			(at 90.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "OCP_TPS2553QDBVRQ1:SOT95P280X145-6N"
+			(at 100.33 188.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/tps2553-q1"
+			(at 100.33 288.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Automotive 2.7V to 5.5V, Precision Adjustable Current-Limit Power Distribution Switch"
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.45"
+			(at 100.33 488.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 100.33 588.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TPS2553QDBVRQ1"
+			(at 100.33 688.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-TPS2553QDBVRQ1"
+			(at 100.33 788.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2553QDBVRQ1?qs=5771e39Rz9FWoB7UBMhJ8g%3D%3D"
+			(at 100.33 888.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" "TPS2553QDBVRQ1"
+			(at 100.33 988.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps2553qdbvrq1/texas-instruments.html?utm_currency=USD&region=nac"
+			(at 100.33 1088.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C55266"
+			(at 76.2 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e81ecd0-4b50-4744-a14b-6361be53de97")
+		)
+		(pin "2"
+			(uuid "9f64a664-2bc4-4911-bc01-1244c671c5bf")
+		)
+		(pin "6"
+			(uuid "7a0fd875-1c1b-49d9-bc90-971f8a0ca2c5")
+		)
+		(pin "4"
+			(uuid "88ddf7c8-0cc2-4e8c-8fdd-92c825e93de8")
+		)
+		(pin "3"
+			(uuid "54794bcc-4cab-4ec0-a214-293fab8a222b")
+		)
+		(pin "5"
+			(uuid "d4656519-d6eb-4bf7-afbd-dbae3e689258")
+		)
+		(instances
+			(project "OCP_TPS2553"
+				(path "/c986b675-8444-45ec-82e8-67e7d12ef1cf"
+					(reference "IC?")
+					(unit 1)
+				)
+			)
+			(project "OBC"
+				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
+					(reference "IC1")
+					(unit 1)
+				)
+			)
+			(project "PCB_PAY1"
+				(path "/ff5be7ba-b218-48d9-8266-27775e57aa5f/d4389cde-8cfb-4c41-8db8-d2592a48e22c"
+					(reference "IC4")
 					(unit 1)
 				)
 			)
@@ -4326,6 +4365,177 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_US")
+		(at 119.38 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45b41298-d34f-41c3-a3cb-c6fb0d9c31df")
+		(property "Reference" "C60"
+			(at 122.428 104.394 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "150uF"
+			(at 122.428 106.934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D_HandSolder"
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "capacitor, US symbol"
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description_1" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser" ""
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C8025"
+			(at 119.38 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7cfc1eb-7b7a-40d6-a81c-db725edca411")
+		)
+		(pin "2"
+			(uuid "0ec32b2d-e73a-4ef4-a822-1e8219172718")
+		)
+		(instances
+			(project "OCP_TPS2553"
+				(path "/c986b675-8444-45ec-82e8-67e7d12ef1cf"
+					(reference "C?")
+					(unit 1)
+				)
+			)
+			(project "OBC"
+				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
+					(reference "C60")
+					(unit 1)
+				)
+			)
+			(project "PCB_PAY1"
+				(path "/ff5be7ba-b218-48d9-8266-27775e57aa5f/d4389cde-8cfb-4c41-8db8-d2592a48e22c"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 107.95 106.68 0)
 		(unit 1)
@@ -4874,216 +5084,6 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
 					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "TPS2553QDBVRQ1_1")
-		(lib_id "OCP_TPS2553QDBVRQ1:TPS2553QDBVRQ1")
-		(at 76.2 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "953c1a22-cdbb-4bbd-a0bb-2db9e62bf54b")
-		(property "Reference" "IC1"
-			(at 90.17 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS2553QDBVRQ1"
-			(at 90.17 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "OCP_TPS2553QDBVRQ1:SOT95P280X145-6N"
-			(at 100.33 188.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/tps2553-q1"
-			(at 100.33 288.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Automotive 2.7V to 5.5V, Precision Adjustable Current-Limit Power Distribution Switch"
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.45"
-			(at 100.33 488.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Texas Instruments"
-			(at 100.33 588.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TPS2553QDBVRQ1"
-			(at 100.33 688.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "595-TPS2553QDBVRQ1"
-			(at 100.33 788.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS2553QDBVRQ1?qs=5771e39Rz9FWoB7UBMhJ8g%3D%3D"
-			(at 100.33 888.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "TPS2553QDBVRQ1"
-			(at 100.33 988.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps2553qdbvrq1/texas-instruments.html?utm_currency=USD&region=nac"
-			(at 100.33 1088.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "KLC_S4.1" ""
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "C55266"
-			(at 76.2 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9e81ecd0-4b50-4744-a14b-6361be53de97")
-		)
-		(pin "2"
-			(uuid "9f64a664-2bc4-4911-bc01-1244c671c5bf")
-		)
-		(pin "6"
-			(uuid "7a0fd875-1c1b-49d9-bc90-971f8a0ca2c5")
-		)
-		(pin "4"
-			(uuid "88ddf7c8-0cc2-4e8c-8fdd-92c825e93de8")
-		)
-		(pin "3"
-			(uuid "54794bcc-4cab-4ec0-a214-293fab8a222b")
-		)
-		(pin "5"
-			(uuid "d4656519-d6eb-4bf7-afbd-dbae3e689258")
-		)
-		(instances
-			(project "OCP_TPS2553"
-				(path "/c986b675-8444-45ec-82e8-67e7d12ef1cf"
-					(reference "IC?")
-					(unit 1)
-				)
-			)
-			(project "OBC"
-				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
-					(reference "IC1")
-					(unit 1)
-				)
-			)
-			(project "PCB_PAY1"
-				(path "/ff5be7ba-b218-48d9-8266-27775e57aa5f/d4389cde-8cfb-4c41-8db8-d2592a48e22c"
-					(reference "IC4")
 					(unit 1)
 				)
 			)
