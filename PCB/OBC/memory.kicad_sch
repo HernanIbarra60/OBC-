@@ -2533,7 +2533,7 @@
 		)
 		(uuid "20b51ec0-ce54-4333-a401-3dd37a01b6d2")
 	)
-	(label "cs_mem_py"
+	(label "cs_mem_coms"
 		(at 228.6 118.11 0)
 		(effects
 			(font
@@ -2623,7 +2623,7 @@
 		)
 		(uuid "a60ab8e2-42d9-4464-8de4-17262e288e06")
 	)
-	(label "cs_mem_py"
+	(label "cs_mem_coms"
 		(at 176.53 71.12 180)
 		(effects
 			(font

@@ -1,0 +1,6 @@
+
+(version 1)
+
+(rule "STM32 fanout: clearance reducida"
+  (constraint clearance (min 0.15mm))
+  (condition "A.intersectsCourtyard('U1') || A.intersectsCourtyard('U4') || A.intersectsCourtyard('U5')"))
