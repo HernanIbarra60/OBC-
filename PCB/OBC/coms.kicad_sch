@@ -6204,6 +6204,28 @@
 			)
 		)
 	)
+	(global_label "CAN-"
+		(shape input)
+		(at 269.24 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "222d1a38-7c62-47c8-ba7e-328145a83ff8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.4867 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "EnMuxCom"
 		(shape input)
 		(at 91.44 101.6 180)
@@ -6250,28 +6272,6 @@
 			)
 		)
 	)
-	(global_label "CAN_H"
-		(shape input)
-		(at 269.24 95.25 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "513e4a58-383e-4010-b065-99c096dfe94f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 278.2124 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ComMem_MISO"
 		(shape input)
 		(at 146.05 101.6 0)
@@ -6285,6 +6285,28 @@
 		(uuid "5e1fe01d-3dd4-45a4-9fb0-fbbe7f27a6da")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 162.9446 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN+"
+		(shape input)
+		(at 269.24 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6a9cfe66-d4c3-45dd-bef3-c8f787c59565")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 277.4867 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6417,28 +6439,6 @@
 		(uuid "f4892cd2-fc8a-4866-9c28-a1c0a3320a10")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 103.8594 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "CAN_L"
-		(shape input)
-		(at 269.24 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f6ac2cf0-5b2f-4759-8921-63cdcf11fdaf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.91 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9089,7 +9089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3A"
+		(property "Value" "+3V3AC"
 			(at 151.13 24.13 0)
 			(effects
 				(font
@@ -10624,7 +10624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3A"
+		(property "Value" "+3V3AC"
 			(at 52.324 91.186 0)
 			(effects
 				(font
