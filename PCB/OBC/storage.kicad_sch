@@ -2766,6 +2766,18 @@
 		(uuid "8a451c80-e2b0-4227-9861-741831abc867")
 	)
 	(junction
+		(at 199.39 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3f542c5-dad3-4068-8e0e-ad23056655e7")
+	)
+	(junction
+		(at 204.47 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "df624d87-10da-4a1f-bde1-ec0fff5e73eb")
+	)
+	(junction
 		(at 199.39 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2823,7 +2835,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 48.26) (xy 207.01 48.26)
+			(xy 213.36 48.26) (xy 212.09 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2903,6 +2915,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 55.88) (xy 204.47 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5484df93-d3c4-4c8d-b9f4-1b36172da6ae")
+	)
+	(wire
+		(pts
 			(xy 45.72 93.98) (xy 45.72 99.06)
 		)
 		(stroke
@@ -2910,6 +2932,16 @@
 			(type default)
 		)
 		(uuid "54975161-248b-431b-91a7-dc242595adcd")
+	)
+	(wire
+		(pts
+			(xy 204.47 48.26) (xy 199.39 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "580582e8-6a62-460f-851e-d2a29f9f9db2")
 	)
 	(wire
 		(pts
@@ -3272,7 +3304,7 @@
 		(dnp no)
 		(uuid "08f49fb6-abb7-480a-aa7e-a9330e4d3743")
 		(property "Reference" "C51"
-			(at 202.184 51.054 0)
+			(at 201.168 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3281,7 +3313,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 202.184 53.594 0)
+			(at 201.168 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3767,7 +3799,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 203.2 48.26 180)
+		(at 208.28 48.26 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3775,7 +3807,7 @@
 		(dnp no)
 		(uuid "235c41c8-a70c-4b81-a97c-be6cd52c7683")
 		(property "Reference" "D10"
-			(at 205.232 35.56 90)
+			(at 210.312 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3784,7 +3816,7 @@
 			)
 		)
 		(property "Value" "D_Schottky"
-			(at 202.692 35.56 90)
+			(at 207.772 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3793,7 +3825,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 203.2 48.26 0)
+			(at 208.28 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3802,7 +3834,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 48.26 0)
+			(at 208.28 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3811,7 +3843,7 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 203.2 48.26 0)
+			(at 208.28 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3820,7 +3852,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3829,7 +3861,7 @@
 			)
 		)
 		(property "Check_prices" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3838,7 +3870,7 @@
 			)
 		)
 		(property "Description_1" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3847,7 +3879,7 @@
 			)
 		)
 		(property "MF" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,7 +3888,7 @@
 			)
 		)
 		(property "MP" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3865,7 +3897,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3874,7 +3906,7 @@
 			)
 		)
 		(property "Price" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3883,7 +3915,7 @@
 			)
 		)
 		(property "SnapEDA_Link" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3892,7 +3924,7 @@
 			)
 		)
 		(property "Mouser" ""
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3901,7 +3933,7 @@
 			)
 		)
 		(property "LCSC Part Name" "C124187"
-			(at 203.2 48.26 90)
+			(at 208.28 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5019,6 +5051,120 @@
 			(project "OBC"
 				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
 					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 204.47 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "910e9135-f557-4229-97b2-0573821dbd07")
+		(property "Reference" "C61"
+			(at 206.248 59.436 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 206.248 61.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 205.4352 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Name" "C237493"
+			(at 204.47 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e6c749a-909f-41c7-a982-5d77baa1a31d")
+		)
+		(pin "2"
+			(uuid "76d702bd-152e-456b-a04e-cd75ca78f98b")
+		)
+		(instances
+			(project "OBC"
+				(path "/e2c03eef-3b12-44a7-ba52-633d5337a24a/50cd9bda-d2af-42b5-bb85-974edeb725b5"
+					(reference "C61")
 					(unit 1)
 				)
 			)
