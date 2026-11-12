@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-04022015-104149";"";
+"REFERENCE";"SKRKAEE010";"";
+"TraceParts.PartTitle";"Switch,Tactile,SurfaceMount,1.57N";"";
+"TraceParts.InstanceId";"10-04022015-104149M3IK8D2OXSAESC1PG08D7R7K";"";
+"SUPPLIER";"ALPS";"";
+"DESIGN";"Switch,Tactile,SurfaceMount,1.57N";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.6";"";

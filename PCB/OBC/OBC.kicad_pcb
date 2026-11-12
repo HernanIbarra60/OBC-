@@ -10984,7 +10984,7 @@
 			(uuid "4d13ad8d-acbd-499e-992f-543ede498039")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_CAS-120A.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14919,7 +14919,7 @@
 			(uuid "6f578268-d666-4298-ba45-21fb640bbed0")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_SPST_NO_Alps_SKRK.step"
+		(model "${KIPRJMOD}/FOOTPRINTS/Pulsador/skrkaee010.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14927,7 +14927,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -17698,9 +17698,9 @@
 			(uuid "c1b1b6a1-a0da-4957-a28c-5d0fa8116859")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Footprints/LIB_USB4940-00-A/ul_2295018-2/c-2295018-2-b-3d.stp"
+		(model "${KIPRJMOD}/FOOTPRINTS/USB4110GFA/USB4110GFA.step"
 			(offset
-				(xyz 0 -4 1.5)
+				(xyz 0 2.5 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -20803,7 +20803,7 @@
 			(uuid "0293338a-77ff-4ccf-82bd-9c5380d95708")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_CAS-120A.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20811,7 +20811,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -23902,7 +23902,7 @@
 			(uuid "612ab459-e2a7-4a7a-843b-7883727c72ab")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_SPST_NO_Alps_SKRK.step"
+		(model "${KIPRJMOD}/FOOTPRINTS/Pulsador/skrkaee010.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23910,7 +23910,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -26204,7 +26204,7 @@
 			(uuid "acbc391e-abce-466f-bdc7-41489f9d348b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Nidec_Copal_CAS-120A.step"
+		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_6.7x4.1mm_W6.73mm_P2.54mm_LowProfile_JPin.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -27487,7 +27487,7 @@
 			(at -0.4953 -1.4224 180)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "c24693d4-0283-4d04-b716-7b074ceaad59")
+			(uuid "313e1a6b-ce9a-42ec-9974-0088c4e35b4e")
 			(effects
 				(font
 					(size 1 1)
@@ -27592,6 +27592,17 @@
 			(uuid "1edf29a7-f5a2-4628-af57-a2cb6af4c5d7")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/FOOTPRINTS/watchdog/MAX6369KA+T.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -34090,7 +34101,7 @@
 			(uuid "71d2e54a-239b-4b6a-a9dc-eabb5d7dc121")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_SPST_NO_Alps_SKRK.step"
+		(model "${KIPRJMOD}/FOOTPRINTS/Pulsador/skrkaee010.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -34098,7 +34109,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -39471,6 +39482,18 @@
 				)
 			)
 		)
+		(fp_text user "*"
+			(at -1.6129 -2.4257 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "5914a2c9-1fc8-4812-9f55-aca1b449842f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(fp_text user "${REFERENCE}"
 			(at 2.8246 -5.2144 90)
 			(unlocked yes)
@@ -39485,18 +39508,6 @@
 		)
 		(fp_text user "*"
 			(at -1.6129 -2.4257 90)
-			(layer "F.Fab")
-			(uuid "fa391beb-8fde-4e5e-97c3-804b8d642539")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(fp_text user "*"
-			(at -1.6129 -2.4257 90)
-			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "fa391beb-8fde-4e5e-97c3-804b8d642539")
 			(effects
@@ -40317,6 +40328,18 @@
 				(justify mirror)
 			)
 		)
+		(fp_text user "*"
+			(at -1.6129 2.4257 90)
+			(layer "B.Fab")
+			(uuid "4521339e-2786-4f27-b98f-ef568aad5190")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
 			(unlocked yes)
@@ -40333,18 +40356,6 @@
 		(fp_text user "*"
 			(at -1.6129 2.4257 90)
 			(unlocked yes)
-			(layer "B.Fab")
-			(uuid "f48cedc1-5be3-4802-98ac-1ac77a2b255f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(fp_text user "*"
-			(at -1.6129 2.4257 90)
 			(layer "B.Fab")
 			(uuid "f48cedc1-5be3-4802-98ac-1ac77a2b255f")
 			(effects
