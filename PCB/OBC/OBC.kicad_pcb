@@ -23233,6 +23233,17 @@
 			(uuid "b380a6a4-adc1-4738-bae7-8a479d6338fd")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/FOOTPRINTS/pc1043dmodel/ESQ-124-39-G-D.stp"
+			(offset
+				(xyz -29 1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
